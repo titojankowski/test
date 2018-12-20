@@ -1,0 +1,31 @@
+.team-content {
+  color: #46494e;
+  font-size: 14px;
+}
+.team-name {
+  font-weight: bold;
+  margin: 0;
+}
+.team-location {
+  font-style: italic;
+  margin: 0;
+}
+.team-position {
+  margin: 0;
+}
+.team-image {
+  border-radius: 100px;
+  margin: 10px;
+  width: 55px;
+  height: 55px;
+}
+.team-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.team-div {
+  max-height: 450px;
+  overflow: auto;
+}
